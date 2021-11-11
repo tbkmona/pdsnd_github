@@ -19,7 +19,7 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, march, april..... , june)
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
@@ -135,3 +135,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+print
