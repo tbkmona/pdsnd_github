@@ -4,10 +4,10 @@
 11/11/2021
 
 ### Project Title
-Update of Bike share analysis Udacity Project 3
+Bike share analysis Udacity Project 3 - Update
 
 ### Description
-Run statistics on multiple data pool related to bicycle sharing
+Run statistics on multiple data pool related to bicycle sharing in three cities
 
 ### Files used
 new_york_city.csv
@@ -15,5 +15,5 @@ chicago.csv
 washington.csv
 
 ### Credits
-Udacity
+Thank you - Udacity
 
